@@ -1,0 +1,22 @@
+{
+  "name": "ruban",
+  "version": "1.0.0",
+  "description": "Ce lundi 18 décembre aura lieu l'inauguration de la formation Simplon à Rodez.  Pour l'occasion, nous souhaitons développer une application 'Ruban' afin de mettre en avant l'image sérieuse et innovante de la formation. 3 groupes de 5 personnes travaillerons sur le projet. Le me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruuddekorte/ruban.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruuddekorte/ruban/issues"
+  },
+  "homepage": "https://github.com/ruuddekorte/ruban#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
